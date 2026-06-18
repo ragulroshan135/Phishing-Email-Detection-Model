@@ -1,0 +1,11 @@
+text,label
+"Your account has been suspended. Click here to verify your login and restore access: http://bit.ly/fake-login","phishing"
+"Quarterly newsletter: team updates and roadmap. No action needed.","safe"
+"Urgent: we detected unusual activity. Verify your password now at http://192.168.0.1/login","phishing"
+"Invitation: please join our webinar on product updates next week.","safe"
+"You've won a reward! Click to claim your $1000 prize: https://tinyurl.com/win-prize","phishing"
+"Reminder: project plan attached. Please review before Friday.","safe"
+"Bank alert: unauthorized login attempt. Verify your account here: http://login.example-bank.com","phishing"
+"Team lunch tomorrow at 12pm. RSVP if you can make it.","safe"
+"Please update your billing information immediately or your account will be closed.","phishing"
+"FYI: the meeting notes are uploaded to the shared drive.","safe"

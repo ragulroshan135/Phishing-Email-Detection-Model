@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+.venv/
+model.joblib
+metrics.json
+
+# Node
+node_modules/
+dist/
+.env
